@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HermanBach
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS, PHP, SQL, CSS, HTML
+- 🌱 I’m currently learning JS, PHP, C#, SQL, CSS, HTML
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: herman.gashkov@gmail.com
