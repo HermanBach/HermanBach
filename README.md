@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HermanBach
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS, PHP, C#, SQL, CSS, HTML
-- 💞️ I’m looking to collaborate on everything
+👋 Hi, I’m Herman — Middle Backend Developer.
+🛠 Stack: C#, Node.js, TypeScript, PostgreSQL, Docker, RabbitMQ.
+🎯 Focus: building reliable services, automating business processes, and taming legacy code.
 - 📫 How to reach me: herman.gashkov@gmail.com
